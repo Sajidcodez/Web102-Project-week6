@@ -1,4 +1,4 @@
-# Web Development Project 5 -
+# Web Development Project 5 - Part 1 of DataDawg
 
 Submitted by: **Sajid Amin**
 
