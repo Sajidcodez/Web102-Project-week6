@@ -1,4 +1,4 @@
-# Web Development Project 5 - Part 1 of DataDawg
+# Web Development Project 5 - Part 1 of Weather Forecast Application
 
 Submitted by: **Sajid Amin**
 
